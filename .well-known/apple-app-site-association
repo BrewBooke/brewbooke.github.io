@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["<TEAM_ID>.com.tackme31.brewbooke"],
+        "components": [
+          { "/": "/v1/recipes/*" }
+        ]
+      }
+    ]
+  }
+}
